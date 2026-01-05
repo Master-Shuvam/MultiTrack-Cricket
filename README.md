@@ -251,7 +251,6 @@ Input Video
 ```
 Cricket Player Detection & Spatial Anchored Tracking System
 YOLOv8X + Custom Multi-Feature Tracker
-Developed for Internship Project 2025
 ```
 
 ---
